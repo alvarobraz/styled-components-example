@@ -48,6 +48,7 @@ As seguintes tecnologias foram utilizadas no projeto:
 - [ESlint](https://eslint.org/)
 
 ## Estrutura ##
+```
 .
 ├── index.html
 ├── package.json
@@ -71,7 +72,7 @@ As seguintes tecnologias foram utilizadas no projeto:
 ├── vite.config.ts
 ├── yarn-error.log
 └── yarn.lock
-
+```
 
 ## :white_check_mark: Requerimentos ##
 
