@@ -35,7 +35,7 @@
 
 ## :dart: Sobre ##
 
-Simples aplicação em ReactJS usando como referência as tecnologias React, TypeScript, styled-components e eslint, nesta aplicação foi criada alguns botões onde é permitido mudar as suas propriedades via style-components, css in js, nela também foi criado um estilo global e um tem, a de default, tudo usando styled-component, para seguir um padrão de código, foi adicionado um eslint!
+Simples aplicação em ReactJS usando como referência as tecnologias React, TypeScript, styled-components e eslint, nesta aplicação foi criada alguns botões onde é permitido mudar as suas propriedades via style-components, css in js, nela também foi criado um estilo global e um tema como default, tudo usando styled-component, para seguir um padrão de código, foi adicionado um eslint!
 
 
 ## :rocket: Tecnologias ##
